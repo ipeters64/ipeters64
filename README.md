@@ -16,7 +16,6 @@
 <a href="your link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108476869/218280692-79dfeff8-1b9a-4b40-9ff3-570bdfaf3a5b.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108476869/218280712-cd6c16ad-868c-415b-a100-62d6378f1675.svg" alt="" height="30" width="40" /></a>
 </p>
-![twitter-original (1)](https://user-images.githubusercontent.com/108476869/218280873-72948684-8b40-4429-94b1-3518df140bb6.svg)
 
 
 
