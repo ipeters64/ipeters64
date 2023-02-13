@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to hike and play basketball
 
 ### Technology Stack
-<p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326310-92330b6f-89fb-4011-99d4-00126c84b478.svg" alt="Javascript" width="40" height="40" color="white"/> </a>
+<p align="left"> <a href="https://www.javascript.com/" target="_blank" > <img src="https://user-images.githubusercontent.com/108476869/218326310-92330b6f-89fb-4011-99d4-00126c84b478.svg" alt="Javascript" width="40" height="40" color="white"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326304-95c67ad5-b830-4860-adc3-a3599718844a.svg" alt="React" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326286-53356e23-70e2-4b29-bda6-ca0963cca7bf.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218477190-bb08a1b6-f7f2-4b88-a820-03e7fe2ed984.png" alt="Flask" width="40" height="40"/> </a>
