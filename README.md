@@ -1,7 +1,7 @@
 ![banner (2)](https://user-images.githubusercontent.com/108476869/218278399-d6913c87-5857-4161-be62-015a9b69b51e.png)
 - 🔭 I’m currently working on a <a href="https://github.com/ipeters64/DAIZEN-Dream-APP-4-">Dream Interpretation Project</a>
 - 🌱 I’m currently mastering Javascript and React.JS framework
-- 👯 I’m looking to collaborate with other React developers
+- 👯 I’m looking to collaborate with other Software developers
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to hike and play basketball
 
