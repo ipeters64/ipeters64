@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a <a href="https://github.com/ipeters64/gpt3_jsm">Chat GPT3 React Project</a>
-- 🌱 I’m currently mastering JavaScript and React.JS framework
+- 🌱 Mastering JavaScript and React.JS framework
 - 👯 I’m looking to collaborate with other Software developers
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to hike and play basketball
