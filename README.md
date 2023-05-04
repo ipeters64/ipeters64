@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a <a href="https://github.com/ipeters64/gpt3_jsm">Chat GPT3 React Project</a>
+- 🔭 I’m currently working on a <a href="https://github.com/joshthyng777/Solo-Media-Webapp">Health And Fitness Web App</a>
 - 🌱 Mastering JavaScript and React.JS framework
 - 👯 I’m looking to collaborate with other Software developers
 - 😄 Pronouns: He/Him
